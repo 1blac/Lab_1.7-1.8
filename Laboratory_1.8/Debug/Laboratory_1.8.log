@@ -1,0 +1,7 @@
+﻿  PAYMENT.cpp
+D:\ООП\1_7-1_8\Laboratory_1.8\PAYMENT.cpp(101,27): warning C4244: 'return': conversion from 'double' to 'long', possible loss of data
+D:\ООП\1_7-1_8\Laboratory_1.8\PAYMENT.cpp(105,44): warning C4244: 'return': conversion from 'double' to 'long', possible loss of data
+D:\ООП\1_7-1_8\Laboratory_1.8\PAYMENT.cpp(109,39): warning C4244: 'return': conversion from 'double' to 'long', possible loss of data
+  Source.cpp
+  Generating Code...
+  Laboratory_1.8.vcxproj -> D:\ООП\1_7-1_8\Laboratory_1.8\Debug\Laboratory_1.8.exe
